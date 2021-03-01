@@ -1,5 +1,62 @@
 {
     "broadArea": {
-        "name": "",
-        "link": ""
+        "name": "Biotechnology and Biomedical Engineering",
+        "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
     },
+    "lab": "Bioinformatics and Data Science in Biotechnology Lab",
+    "deployLab": true,
+    "phase": 3,
+    "collegeName": "AU",
+    "baseUrl": "bds-au.vlabs.ac.in",
+    "introduction": "In this lab, students will be able to learn and practice basics of R programming. Students can expand their skillset in R programming by reading and writing biological sequence data in R platform. Educating this will allow users to learn how to use R as an open source language for learning bioinformatics data processing. Specifically, this lab will help analyse biological sequence data using simple R code snippets. With the features such as flexibility, data handling and modelling capabilitie R programming has been a widely accepted software tools for bioinformatics. It also supports the creation and use of self-describing data structures. With the trends in data science, the lab focuses on FOSS implementations which can be further utilized as laboratory manual or reference material for life science students.",
+    "experiments": [
+                {
+                "name": "Writing and reading sequence data in R",
+                "short-name": "sequence-data-r",
+		        "repo": "https://github.com/virtual-labs/exp-sequence-data-r-au",
+ 	            "tag": "v1.0.0",
+         	    "deploy": true 
+                },
+                {
+                "name": "Guanine-Cytosine content analysis and basics of DNA sequence statistics",
+                "short-name": "dna-sequence-statistics",
+		        "repo": "https://github.com/virtual-labs/exp-dna-sequence-statistics-au",
+ 	            "tag": "v1.0.0",
+         	    "deploy": true 
+                },
+                {
+                "name": "Pairwise sequence alignment of Protein or DNA sequences",
+                "short-name": "pairwise-sequence-alignment",
+		        "repo": "https://github.com/virtual-labs/exp-pairwise-sequence-alignment-au",
+ 	            "tag": "v1.0.0",
+         	    "deploy": true 
+                },
+                {
+                "name": "DNA sequence analysis and determining DNA open reading frames",
+                "short-name": "open-reading-frames",
+		        "repo": "https://github.com/virtual-labs/exp-open-reading-frames-au",
+ 	            "tag": "v1.0.0",
+         	    "deploy": true 
+                }
+    ],
+    "targetAudience": {
+        "UG": ["B. Tech./ B.E in Biotechnology/Microbiology/Bioinformatics"],
+        "PG": ["MS/Ph. D. Beginners in Biotechnology/Microbiology/Bioinformatics"]
+    },
+    "objective": "Introduction to the basics of R programming techniques in bioinformatics and bioscience data processing.",
+                 "Retrieving public sequence databases",
+                 "Use of computational tools to find sequences, analysis of protein and amino acid sequences without the need of many other software packages.",
+                 "To retrieve biological sequence of different organisms and to identify regions for similarity for phylogenic analysis.",
+                 "To study sequence alignment methods using R code snippets even for students without biology background.",
+    "courseAlignment": {
+        "description": "The syllabi of this lab aligns to the following universities in India.",
+        "universities": [
+                 "Anna University, Tamil Nadu",
+                 "Visvesvaraya Technological University, Karnataka",
+                 "Bharathiyar University, Tamil Nadu",
+                 "Bharathidasan University, Tamil Nadu",
+                 "Madurai Kamaraj University, Tamil Nadu",
+                 "Savitribai Phule Pune University, Maharashtra"
+                 ]
+    }
+}
