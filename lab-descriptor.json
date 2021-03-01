@@ -43,11 +43,13 @@
         "UG": ["B. Tech./ B.E in Biotechnology/Microbiology/Bioinformatics"],
         "PG": ["MS/Ph. D. Beginners in Biotechnology/Microbiology/Bioinformatics"]
     },
-    "objective": "Introduction to the basics of R programming techniques in bioinformatics and bioscience data processing.",
+    "objective": [ 
+		 "Introduction to the basics of R programming techniques in bioinformatics and bioscience data processing.",
                  "Retrieving public sequence databases",
                  "Use of computational tools to find sequences, analysis of protein and amino acid sequences without the need of many other software packages.",
                  "To retrieve biological sequence of different organisms and to identify regions for similarity for phylogenic analysis.",
-                 "To study sequence alignment methods using R code snippets even for students without biology background.",
+                 "To study sequence alignment methods using R code snippets even for students without biology background."
+		 ]
     "courseAlignment": {
         "description": "The syllabi of this lab aligns to the following universities in India.",
         "universities": [
