@@ -37,6 +37,34 @@
       "repo": "https://github.com/virtual-labs/exp-open-reading-frames-au",
       "tag": "v1.0.0",
       "deploy": true
+    },
+    {
+      "name": "Reading Fasta using SequinR",
+      "short-name": "sequinr",
+      "repo": "https://github.com/virtual-labs/exp-sequinr-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Querying NCBI database in R",
+      "short-name": "querying-ncbi",
+      "repo": "https://github.com/virtual-labs/exp-querying-ncbi-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "UniProt Protein Sequence Retrieval in R",
+      "short-name": "sequence-retrieval",
+      "repo": "https://github.com/virtual-labs/exp-sequence-retrieval-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Gene finding: Finding Start and Stop codons using R ",
+      "short-name": "gene-finding",
+      "repo": "https://github.com/virtual-labs/exp-gene-finding-au",
+      "tag": "v1.0.0",
+      "deploy": true
     }
   ],
   "targetAudience": {
