@@ -6,7 +6,7 @@
   "lab": "Bioinformatics and Data Science in Biotechnology Lab",
   "deployLab": true,
   "phase": 3,
-  "collegeName": "AU",
+  "collegeName": "AMRT",
   "baseUrl": "bds-au.vlabs.ac.in",
   "introduction": "In this lab, students will be able to learn and practice basics of R programming. Students can expand their skillset in R programming by reading and writing biological sequence data in R platform. Educating this will allow users to learn how to use R as an open source language for learning bioinformatics data processing. Specifically, this lab will help analyse biological sequence data using simple R code snippets. With the features such as flexibility, data handling and modelling capabilitie R programming has been a widely accepted software tools for bioinformatics. It also supports the creation and use of self-describing data structures. With the trends in data science, the lab focuses on FOSS implementations which can be further utilized as laboratory manual or reference material for life science students.",
   "experiments": [
@@ -83,5 +83,57 @@
       "Savitribai Phule Pune University, Maharashtra"
     ]
   },
-  "version": "v0.0.1"
+  "version": "v0.0.2",
+  "exp_name": "Gene finding: Finding Start and Stop codons using R ",
+  "exp_short_name": "gene-finding",
+  "production": true,
+  "current_item": {
+    "item": "feedback",
+    "target": "feedback.html",
+    "label": "Feedback"
+  },
+  "menu": [
+    {
+      "item": "aim",
+      "target": "index.html",
+      "source": "aim.md",
+      "label": "Aim"
+    },
+    {
+      "item": "theory",
+      "target": "theory.html",
+      "source": "theory.md",
+      "label": "Theory"
+    },
+    {
+      "item": "pretest",
+      "target": "pretest.html",
+      "source": "pretest.js",
+      "label": "Pre Test"
+    },
+    {
+      "item": "procedure",
+      "target": "procedure.html",
+      "source": "procedure.md",
+      "label": "Procedure"
+    },
+    {
+      "item": "simulation",
+      "target": "simulation.html",
+      "label": "Simulation"
+    },
+    {
+      "item": "posttest",
+      "target": "posttest.html",
+      "source": "posttest.js",
+      "label": "Post Test"
+    },
+    {
+      "item": "references",
+      "target": "references.html",
+      "source": "references.md",
+      "label": "References"
+    },
+    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
+  ]
 }
