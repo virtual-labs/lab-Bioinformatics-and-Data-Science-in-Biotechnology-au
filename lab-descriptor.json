@@ -49,7 +49,7 @@
       "name": "Querying NCBI database in R",
       "short-name": "querying-ncbi",
       "repo": "https://github.com/virtual-labs/exp-querying-ncbi-au",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -83,7 +83,7 @@
       "Savitribai Phule Pune University, Maharashtra"
     ]
   },
-  "version": "v0.0.2",
+  "version": "v0.0.3",
   "exp_name": "Gene finding: Finding Start and Stop codons using R ",
   "exp_short_name": "gene-finding",
   "production": true,
