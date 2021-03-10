@@ -14,7 +14,7 @@
       "name": "Writing and reading sequence data in R",
       "short-name": "sequence-data-r",
       "repo": "https://github.com/virtual-labs/exp-sequence-data-r-au",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
