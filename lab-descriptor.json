@@ -14,7 +14,7 @@
       "name": "Writing and reading sequence data in R",
       "short-name": "sequence-data-r",
       "repo": "https://github.com/virtual-labs/exp-sequence-data-r-au",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -83,7 +83,7 @@
       "Savitribai Phule Pune University, Maharashtra"
     ]
   },
-  "version": "v0.0.3",
+  "version": "v1.0.0",
   "exp_name": "Gene finding: Finding Start and Stop codons using R ",
   "exp_short_name": "gene-finding",
   "production": true,
