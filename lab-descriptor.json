@@ -14,56 +14,56 @@
       "name": "Writing and reading sequence data in R",
       "short-name": "sequence-data-r",
       "repo": "https://github.com/virtual-labs/exp-sequence-data-r-au",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Guanine-Cytosine content analysis and basics of DNA sequence statistics",
       "short-name": "dna-sequence-statistics",
       "repo": "https://github.com/virtual-labs/exp-dna-sequence-statistics-au",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Pairwise sequence alignment of Protein or DNA sequences",
       "short-name": "pairwise-sequence-alignment",
       "repo": "https://github.com/virtual-labs/exp-pairwise-sequence-alignment-au",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "DNA sequence analysis and determining DNA open reading frames",
       "short-name": "open-reading-frames",
       "repo": "https://github.com/virtual-labs/exp-open-reading-frames-au",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Reading Fasta using SequinR",
       "short-name": "sequinr",
       "repo": "https://github.com/virtual-labs/exp-sequinr-au",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Querying NCBI database in R",
       "short-name": "querying-ncbi",
       "repo": "https://github.com/virtual-labs/exp-querying-ncbi-au",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "UniProt Protein Sequence Retrieval in R",
       "short-name": "sequence-retrieval",
       "repo": "https://github.com/virtual-labs/exp-sequence-retrieval-au",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Gene finding: Finding Start and Stop codons using R ",
       "short-name": "gene-finding",
       "repo": "https://github.com/virtual-labs/exp-gene-finding-au",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
@@ -83,7 +83,7 @@
       "Savitribai Phule Pune University, Maharashtra"
     ]
   },
-  "version": "v1.0.0",
+  "version": "v1.0.1",
   "exp_name": "Gene finding: Finding Start and Stop codons using R ",
   "exp_short_name": "gene-finding",
   "production": true,
