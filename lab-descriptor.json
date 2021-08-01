@@ -111,9 +111,9 @@
       "Savitribai Phule Pune University, Maharashtra"
     ]
   },
-  "version": "v1.2.0",
-  "exp_name": "Gene finding: Finding Start and Stop codons using R ",
-  "exp_short_name": "gene-finding",
+  "version": "v1.3.0",
+  "exp_name": "Differential expression analyses of RNA-seq",
+  "exp_short_name": "rna-seq",
   "production": true,
   "current_item": {
     "item": "feedback",
