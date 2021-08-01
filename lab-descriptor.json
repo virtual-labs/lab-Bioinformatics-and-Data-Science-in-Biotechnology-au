@@ -65,6 +65,34 @@
       "repo": "https://github.com/virtual-labs/exp-gene-finding-au",
       "tag": "v1.0.1",
       "deploy": true
+    },
+    {
+      "name": "Retrieving a list of sequences from UniProt",
+      "short-name": "uniprot",
+      "repo": "https://github.com/virtual-labs/exp-uniprot-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Computing scoring matrices for amino acids and long pairwise alignment in R",
+      "short-name": "long-pairwise-alignment",
+      "repo": "https://github.com/virtual-labs/exp-long-pairwise-alignment-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Calculating genetic distances between protein sequences",
+      "short-name": "protein-sequences",
+      "repo": "https://github.com/virtual-labs/exp-protein-sequences-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Differential expression analyses of RNA-seq",
+      "short-name": "rna-seq",
+      "repo": "https://github.com/virtual-labs/exp-rna-seq-au",
+      "tag": "v1.0.0",
+      "deploy": true
     }
   ],
   "targetAudience": {
