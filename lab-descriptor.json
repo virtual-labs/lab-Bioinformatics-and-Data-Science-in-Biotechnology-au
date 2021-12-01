@@ -111,7 +111,7 @@
       "Savitribai Phule Pune University, Maharashtra"
     ]
   },
-  "version": "v1.5.0",
+  "version": "v1.6.0",
   "exp_name": "Differential expression analyses of RNA-seq",
   "exp_short_name": "rna-seq",
   "production": true,
